@@ -1,0 +1,8 @@
+﻿input_video.mp4
+output/tracked.mp4
+output/test_run.mp4
+*.pt
+.venv/
+venv/
+__pycache__/
+*.pyc

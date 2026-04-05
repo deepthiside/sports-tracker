@@ -1,0 +1,11 @@
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+yt-dlp
+supervision>=0.18.0
+matplotlib
+pandas
+Pillow
+torch
+torchvision
+torchaudio
